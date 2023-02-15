@@ -5,16 +5,16 @@
   justify-content: space-between;
 }
 @media screen and (max-width: 1023px) {
-    .footer{
-        margin: 88px auto 24px;
-        width: calc(100% - (24px*2));
-      }
+  .footer{
+    margin: 88px auto 24px;
+    width: calc(100% - (24px*2));
+  }
 }
 @media screen and (max-width: 767px) {
-    .footer {
-        margin: 64px 0 24px 16px;
-        width: calc(100% - 16px);
-        flex-direction: column;
-        justify-content: space-between;
-      }
+  .footer {
+    margin: 32px 0 24px 16px;
+    width: calc(100% - 16px);
+    flex-direction: column;
+    justify-content: space-between;
+  }
 }
