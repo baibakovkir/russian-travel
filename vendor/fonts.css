@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Inter";
+  font-weight: normal;
+  src: local("Inter") 
+  url(../Inter-3.19/Inter_Desktop/Inter-Regular.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: bold;
+  src: local("Inter") 
+  url(../Inter-3.19/Inter_Desktop/Inter-Bold.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 900;
+  src: local("Inter") 
+  url(../Inter-3.19/Inter_Desktop/Inter-Black.otf) format("opentype");
+}
+
+
+
