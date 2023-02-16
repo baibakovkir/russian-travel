@@ -3,6 +3,12 @@
   grid-area: image;
 }
 
+@media screen and (max-width: 1023px) {
+  .place__image{
+    margin-top: 23px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .place__image {
     margin-bottom: 7px;
