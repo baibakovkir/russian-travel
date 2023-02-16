@@ -2,21 +2,24 @@
   font-family: "Inter";
   font-weight: normal;
   src:
-  url(../Inter-3.19/Inter_Desktop/Inter-Regular.otf) format("opentype");
+  url(../Inter-3.19/Inter_Web/Inter-Regular.woff) format("woff"),
+  url(../Inter-3.19/Inter_Web/Inter-Regular.woff2) format("woff2");
 }
 
 @font-face {
   font-family: "Inter";
   font-weight: bold;
   src:
-  url(../Inter-3.19/Inter_Desktop/Inter-Bold.otf) format("opentype");
+  url(../Inter-3.19/Inter_Web/Inter-Bold.woff) format("woff"),
+  url(../Inter-3.19/Inter_Web/Inter-Bold.woff2) format("woff2");
 }
 
 @font-face {
   font-family: "Inter";
   font-weight: 900;
   src:
-  url(../Inter-3.19/Inter_Desktop/Inter-Black.otf) format("opentype");
+  url(../Inter-3.19/Inter_Web/Inter-Black.woff) format("woff"),
+  url(../Inter-3.19/Inter_Web/Inter-Black.woff2) format("woff2");
 }
 
 
