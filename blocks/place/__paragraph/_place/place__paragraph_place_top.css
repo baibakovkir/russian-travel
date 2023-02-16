@@ -1,9 +1,16 @@
 .place__paragraph_place_top {
   grid-area: paragraph_place_top;
+  margin-top: 22px;
 }
 
 @media screen and (max-width: 1023px) {
   .place__paragraph_place_top{
     margin-top: 23px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraph_place_top {
+    margin-top: 7px;
   }
 }
