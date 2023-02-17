@@ -11,7 +11,6 @@
   .place__title {
     font-size: 42px;
     line-height: 1.1;
-    max-width: 330px;
   }
 }
 
@@ -19,7 +18,7 @@
   .place__title {
     font-size: 32px;
     line-height: 1.09;
-    margin: 0 auto;
-    min-width: 288px;
+    margin: 0 16px;
+    align-self: flex-start;
   }
 }

@@ -15,6 +15,5 @@
     margin: 32px 0 24px 16px;
     width: calc(100% - 16px);
     flex-direction: column;
-    justify-content: space-between;
   }
 }
